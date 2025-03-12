@@ -1,2 +1,0 @@
-Text Editor : vscode
-Extensions : HTML,Live Server,CSS Support
