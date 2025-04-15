@@ -69,7 +69,6 @@
 </div>
 
 <script>
-    // Validasi Form
     function validateForm() {
         const name = document.getElementById("name").value.trim();
         const dob = document.getElementById("dob").value;
